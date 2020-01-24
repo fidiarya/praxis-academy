@@ -1,0 +1,1511 @@
+Microsoft Windows [Version 10.0.18362.592]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\fidia>cmd
+Microsoft Windows [Version 10.0.18362.592]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\fidia>dir
+ Volume in drive C has no label.
+ Volume Serial Number is A25B-8B9E
+
+ Directory of C:\Users\fidia
+
+23/01/2020  12:29    <DIR>          .
+23/01/2020  12:29    <DIR>          ..
+03/10/2019  09:35    <DIR>          .android
+25/09/2019  17:06    <DIR>          .AndroidStudio3.5
+01/10/2019  22:19               145 .appletviewer
+22/11/2019  09:57    <DIR>          .argouml
+21/09/2019  19:17    <DIR>          .dia
+05/10/2018  07:38    <DIR>          .eclipse
+18/07/2019  23:46                16 .emulator_console_auth_token
+23/01/2020  12:29               178 .gitconfig
+26/09/2019  11:30    <DIR>          .gradle
+01/09/2019  17:53                50 .j2e
+23/01/2020  10:34                14 .minttyrc
+04/03/2019  11:57    <DIR>          .nbi
+17/08/2019  17:24    <DIR>          .netbeans-derby
+30/11/2018  10:09    <DIR>          .p2
+02/10/2019  05:38    <DIR>          .thumbnails
+05/10/2018  07:34    <DIR>          .tooling
+11/11/2018  00:27    <DIR>          .VirtualBox
+22/11/2018  16:55    <DIR>          .vscode
+16/12/2019  22:58    <DIR>          3D Objects
+02/10/2019  21:44    <DIR>          AndroidStudioProjects
+28/06/2019  22:15    <DIR>          ansel
+19/09/2018  23:02    <DIR>          bluej
+22/09/2018  10:56               550 car.class
+16/12/2019  22:58    <DIR>          Contacts
+23/01/2020  16:20    <DIR>          Desktop
+01/11/2018  22:21    <DIR>          Documents
+23/01/2020  12:01    <DIR>          Downloads
+05/10/2018  07:12    <DIR>          eclipse
+25/10/2018  16:09    <DIR>          eclipse-workspace
+16/12/2019  22:58    <DIR>          Favorites
+20/05/2019  21:45             9.061 keystore.jks
+05/11/2018  16:08    <DIR>          Latihan
+16/12/2019  22:58    <DIR>          Links
+16/12/2019  22:58    <DIR>          Music
+21/01/2020  15:22    <DIR>          OneDrive
+05/11/2018  16:13    <DIR>          PBO
+19/10/2019  06:59    <DIR>          Pictures
+16/09/2019  20:13    <DIR>          Postman
+16/12/2019  22:58    <DIR>          Saved Games
+16/12/2019  22:58    <DIR>          Searches
+05/11/2018  16:06    <DIR>          semester 5
+21/12/2019  05:25    <DIR>          Videos
+11/11/2018  00:27    <DIR>          VirtualBox VMs
+               7 File(s)         10.014 bytes
+              38 Dir(s)  60.980.400.128 bytes free
+
+C:\Users\fidia>cd documents
+
+C:\Users\fidia\Documents>md coba
+
+C:\Users\fidia\Documents>ipconfig
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter WiFi:
+
+   Connection-specific DNS Suffix  . : domain.name
+   Link-local IPv6 Address . . . . . : fe80::f86a:336a:22a3:ca03%12
+   IPv4 Address. . . . . . . . . . . : 192.168.0.5
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::76da:daff:fee6:e699%12
+                                       192.168.0.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Users\fidia\Documents>systeminfo
+
+Host Name:                 DESKTOP-LA4FU45
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00330-80198-05223-AA400
+Original Install Date:     08/10/2019, 01:20:55
+System Boot Time:          17/01/2020, 22:58:21
+System Manufacturer:       LENOVO
+System Model:              81BN
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1801 Mhz
+BIOS Version:              LENOVO 4QCN41WW(V2.05), 12/12/2017
+Windows Directory:         C:\windows
+System Directory:          C:\windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-gb;English (United Kingdom)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     8.058 MB
+Available Physical Memory: 2.784 MB
+Virtual Memory: Max Size:  9.338 MB
+Virtual Memory: Available: 1.467 MB
+Virtual Memory: In Use:    7.871 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-LA4FU45
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB4532938
+                           [02]: KB4515383
+                           [03]: KB4516115
+                           [04]: KB4521863
+                           [05]: KB4524569
+                           [06]: KB4528759
+                           [07]: KB4528760
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                 Connection Name: WiFi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.5
+                                 [02]: fe80::f86a:336a:22a3:ca03
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\fidia\Documents>tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      8.940 K
+Registry                       120 Services                   0     48.688 K
+smss.exe                       440 Services                   0        924 K
+csrss.exe                      696 Services                   0      4.864 K
+wininit.exe                    796 Services                   0      5.224 K
+services.exe                   868 Services                   0      8.992 K
+lsass.exe                      876 Services                   0     18.580 K
+svchost.exe                   1004 Services                   0      2.816 K
+svchost.exe                    100 Services                   0     32.152 K
+fontdrvhost.exe                488 Services                   0      2.032 K
+svchost.exe                   1028 Services                   0     17.208 K
+svchost.exe                   1100 Services                   0      7.420 K
+svchost.exe                   1280 Services                   0      9.352 K
+svchost.exe                   1288 Services                   0      8.912 K
+svchost.exe                   1296 Services                   0      6.024 K
+svchost.exe                   1336 Services                   0      9.292 K
+svchost.exe                   1344 Services                   0      9.916 K
+svchost.exe                   1472 Services                   0      7.388 K
+svchost.exe                   1704 Services                   0     15.732 K
+svchost.exe                   1712 Services                   0     10.272 K
+svchost.exe                   1720 Services                   0      8.392 K
+svchost.exe                   1848 Services                   0      9.432 K
+svchost.exe                   1876 Services                   0      9.068 K
+svchost.exe                   1912 Services                   0      6.576 K
+NVDisplay.Container.exe       2008 Services                   0     10.708 K
+svchost.exe                     96 Services                   0      8.908 K
+svchost.exe                   2064 Services                   0     11.628 K
+svchost.exe                   2124 Services                   0      5.656 K
+svchost.exe                   2160 Services                   0     11.332 K
+svchost.exe                   2168 Services                   0      4.612 K
+svchost.exe                   2176 Services                   0      6.588 K
+wsc_proxy.exe                 2208 Services                   0      7.984 K
+svchost.exe                   2256 Services                   0     14.592 K
+svchost.exe                   2300 Services                   0     15.044 K
+Memory Compression            2376 Services                   0    451.700 K
+dasHost.exe                   2420 Services                   0     13.556 K
+svchost.exe                   2460 Services                   0      7.596 K
+svchost.exe                   2496 Services                   0      7.500 K
+igfxCUIService.exe            2532 Services                   0      6.900 K
+svchost.exe                   2736 Services                   0      8.848 K
+svchost.exe                   2764 Services                   0      6.740 K
+svchost.exe                   2772 Services                   0      7.228 K
+winwfpmonitor.exe             2912 Services                   0      2.380 K
+svchost.exe                   2936 Services                   0     15.052 K
+svchost.exe                   3036 Services                   0      5.376 K
+svchost.exe                   3044 Services                   0      8.436 K
+svchost.exe                   3180 Services                   0     15.140 K
+svchost.exe                   3268 Services                   0      7.724 K
+svchost.exe                   3328 Services                   0     12.532 K
+AVGSvc.exe                    3376 Services                   0    347.496 K
+spoolsv.exe                   3604 Services                   0     10.940 K
+svchost.exe                   3644 Services                   0     18.224 K
+svchost.exe                   3672 Services                   0      6.144 K
+svchost.exe                   3868 Services                   0      4.532 K
+AdminService.exe              3876 Services                   0      8.632 K
+svchost.exe                   3892 Services                   0     12.660 K
+svchost.exe                   3900 Services                   0     20.312 K
+svchost.exe                   3928 Services                   0      4.596 K
+IntelCpHDCPSvc.exe            3936 Services                   0      5.536 K
+nvcontainer.exe               3944 Services                   0     29.356 K
+svchost.exe                   3952 Services                   0     27.604 K
+PsiService_2.exe              3964 Services                   0      3.704 K
+svchost.exe                   3976 Services                   0      4.180 K
+svchost.exe                   3972 Services                   0     25.392 K
+svchost.exe                   3988 Services                   0      7.224 K
+svchost.exe                   4000 Services                   0     18.660 K
+svchost.exe                   4280 Services                   0      7.400 K
+IntelCpHeciSvc.exe            4336 Services                   0      5.404 K
+svchost.exe                   4360 Services                   0     14.760 K
+svchost.exe                   4436 Services                   0      3.936 K
+svchost.exe                   4460 Services                   0      9.976 K
+conhost.exe                   5068 Services                   0      1.052 K
+svchost.exe                   5152 Services                   0      5.516 K
+svchost.exe                   5896 Services                   0      8.028 K
+aswidsagent.exe               6128 Services                   0     59.104 K
+svchost.exe                   7108 Services                   0      5.480 K
+svchost.exe                   6324 Services                   0      8.244 K
+svchost.exe                   6612 Services                   0     18.092 K
+dllhost.exe                   4036 Services                   0      8.128 K
+svchost.exe                   3612 Services                   0     14.700 K
+svchost.exe                   6400 Services                   0      6.452 K
+svchost.exe                   7300 Services                   0     17.128 K
+PresentationFontCache.exe     7452 Services                   0     12.904 K
+svchost.exe                   2632 Services                   0      7.992 K
+GoogleCrashHandler.exe        7956 Services                   0      1.112 K
+GoogleCrashHandler64.exe      1520 Services                   0      1.032 K
+svchost.exe                   8108 Services                   0     20.928 K
+SearchIndexer.exe             8764 Services                   0     63.088 K
+svchost.exe                   9404 Services                   0     14.616 K
+svchost.exe                  10788 Services                   0     17.220 K
+SecurityHealthService.exe    11184 Services                   0     12.700 K
+svchost.exe                   3212 Services                   0      8.368 K
+svchost.exe                  11148 Services                   0     12.324 K
+SgrmBroker.exe                8100 Services                   0      6.000 K
+svchost.exe                  10264 Services                   0      8.092 K
+svchost.exe                  11812 Services                   0      9.152 K
+svchost.exe                   6564 Services                   0      9.900 K
+svchost.exe                   4612 Services                   0      6.760 K
+svchost.exe                  13876 Services                   0      7.328 K
+TrustedInstaller.exe         17356 Services                   0      6.580 K
+TiWorker.exe                   944 Services                   0     11.952 K
+svchost.exe                  12300 Services                   0      7.720 K
+csrss.exe                     8784 Console                    5      5.432 K
+winlogon.exe                  9200 Console                    5      9.080 K
+fontdrvhost.exe               4584 Console                    5      5.856 K
+dwm.exe                      15816 Console                    5     93.448 K
+NVDisplay.Container.exe      16816 Console                    5     25.772 K
+nvcontainer.exe                264 Console                    5     21.708 K
+sihost.exe                   10456 Console                    5     33.468 K
+svchost.exe                  16560 Console                    5     22.356 K
+SMΔRTP.exe                   16136 Console                    5      8.164 K
+igfxEM.exe                   15980 Console                    5     24.088 K
+taskhostw.exe                10652 Console                    5     15.488 K
+explorer.exe                 14440 Console                    5    175.968 K
+svchost.exe                   3188 Services                   0      6.888 K
+svchost.exe                   7912 Console                    5     18.572 K
+StartMenuExperienceHost.e    13408 Console                    5     79.280 K
+RuntimeBroker.exe            10488 Console                    5     22.832 K
+NVIDIA Web Helper.exe        12804 Console                    5      5.092 K
+conhost.exe                   7920 Console                    5      1.044 K
+SearchUI.exe                 13760 Console                    5     76.748 K
+ctfmon.exe                   12584 Console                    5     14.996 K
+RuntimeBroker.exe             5404 Console                    5     37.484 K
+SkypeBackgroundHost.exe      14304 Console                    5      1.004 K
+SettingSyncHost.exe           5080 Console                    5      7.304 K
+LockApp.exe                  12652 Console                    5     38.748 K
+RuntimeBroker.exe            15988 Console                    5     30.044 K
+RuntimeBroker.exe            16264 Console                    5     18.632 K
+SmadavProtect64.exe          11532 Console                    5      1.088 K
+SkypeApp.exe                 15756 Console                    5        788 K
+YourPhone.exe                 2288 Console                    5      1.340 K
+RuntimeBroker.exe             5904 Console                    5      8.920 K
+RuntimeBroker.exe            11008 Console                    5     19.828 K
+SecurityHealthSystray.exe    12800 Console                    5      7.904 K
+RAVCpl64.exe                  9468 Console                    5     12.604 K
+RAVBg64.exe                   8840 Console                    5     12.944 K
+RAVBg64.exe                   5112 Console                    5     12.328 K
+RAVBg64.exe                   7148 Console                    5     12.372 K
+AVGUI.exe                    14668 Console                    5     64.056 K
+E_YATIN2E.EXE                 5380 Console                    5      9.116 K
+MiPhoneHelper.exe             8748 Console                    5      5.772 K
+fdm.exe                       2084 Console                    5    132.920 K
+TrayTipAgentE.exe             5484 Console                    5     10.068 K
+jusched.exe                   8544 Console                    5     14.348 K
+ApplicationFrameHost.exe      1504 Console                    5     32.288 K
+chrome.exe                    8232 Console                    5    200.872 K
+chrome.exe                   10972 Console                    5      6.004 K
+chrome.exe                    6728 Console                    5      7.264 K
+chrome.exe                   13172 Console                    5    349.732 K
+chrome.exe                    2820 Console                    5     46.272 K
+chrome.exe                    9528 Console                    5    269.244 K
+chrome.exe                   12032 Console                    5     42.276 K
+cmd.exe                       7512 Console                    5      2.740 K
+conhost.exe                   2200 Console                    5      6.416 K
+browsernativehost.exe         6456 Console                    5     12.220 K
+SystemSettings.exe           16248 Console                    5         40 K
+chrome.exe                   10644 Console                    5     88.580 K
+AVGUI.exe                     3412 Console                    5      5.892 K
+chrome.exe                    7132 Console                    5     13.244 K
+Calculator.exe               14444 Console                    5        240 K
+svchost.exe                  15204 Console                    5     28.072 K
+jucheck.exe                   6296 Console                    5      9.984 K
+CompPkgSrv.exe               10572 Console                    5      7.088 K
+chrome.exe                   15228 Console                    5     29.892 K
+chrome.exe                   15612 Console                    5    253.172 K
+rundll32.exe                 13704 Console                    5      7.944 K
+WindowsInternal.Composabl    14840 Console                    5     38.452 K
+RuntimeBroker.exe            13548 Console                    5      5.428 K
+chrome.exe                   15684 Console                    5     71.288 K
+dllhost.exe                  13300 Console                    5      9.340 K
+ShellExperienceHost.exe       2816 Console                    5     50.684 K
+RuntimeBroker.exe            17204 Console                    5     23.816 K
+chrome.exe                   12208 Console                    5     72.524 K
+unsecapp.exe                  9608 Services                   0      5.868 K
+GameBar.exe                  16332 Console                    5     42.096 K
+RuntimeBroker.exe            11848 Console                    5     12.420 K
+GameBarFT.exe                12524 Console                    5     13.688 K
+chrome.exe                    2756 Console                    5     70.008 K
+Microsoft.Photos.exe          1208 Console                    5        388 K
+RuntimeBroker.exe            12176 Console                    5     33.660 K
+chrome.exe                    4516 Console                    5     77.364 K
+svchost.exe                  15432 Console                    5     36.828 K
+git-bash.exe                  8016 Console                    5      5.000 K
+mintty.exe                    5976 Console                    5     18.488 K
+conhost.exe                   3440 Console                    5      7.024 K
+bash.exe                     10080 Console                    5      8.148 K
+Video.UI.exe                  4276 Console                    5     94.944 K
+GitHubDesktop.exe             7860 Console                    5     83.380 K
+GitHubDesktop.exe            10740 Console                    5     58.784 K
+GitHubDesktop.exe             7100 Console                    5     84.256 K
+chrome.exe                   13928 Console                    5     48.876 K
+chrome.exe                   19188 Console                    5     67.256 K
+Code.exe                     19120 Console                    5     93.744 K
+Code.exe                     19244 Console                    5     96.860 K
+Code.exe                     18156 Console                    5     12.488 K
+Code.exe                     15768 Console                    5     70.696 K
+CodeSetup-stable-26076a4d     7700 Console                    5      7.020 K
+CodeSetup-stable-26076a4d    15752 Console                    5     19.876 K
+RuntimeBroker.exe            19236 Console                    5     32.180 K
+audiodg.exe                  14848 Services                   0     19.880 K
+Code.exe                     17836 Console                    5    123.064 K
+CodeHelper.exe               12328 Console                    5     12.308 K
+conhost.exe                  18352 Console                    5      5.552 K
+Code.exe                      6684 Console                    5     50.280 K
+Code.exe                     17820 Console                    5     24.520 K
+conhost.exe                   9328 Console                    5      6.596 K
+powershell.exe               19256 Console                    5     48.260 K
+svchost.exe                  18492 Services                   0      5.640 K
+svchost.exe                  18108 Services                   0      9.420 K
+cmd.exe                      17420 Console                    5      4.120 K
+conhost.exe                  12544 Console                    5     17.424 K
+cmd.exe                      17336 Console                    5      4.216 K
+chrome.exe                   19064 Console                    5     83.932 K
+svchost.exe                  19364 Services                   0     11.904 K
+chrome.exe                    5376 Console                    5    110.968 K
+chrome.exe                    6032 Console                    5    105.268 K
+chrome.exe                   18256 Console                    5     57.460 K
+chrome.exe                   18688 Console                    5     20.732 K
+WmiPrvSE.exe                 19884 Services                   0     15.272 K
+WmiPrvSE.exe                 19224 Services                   0      8.424 K
+SearchProtocolHost.exe       19772 Services                   0     12.404 K
+SearchFilterHost.exe          1900 Services                   0      6.588 K
+tasklist.exe                 17004 Console                    5     12.904 K
+
+C:\Users\fidia\Documents>tskill
+Invalid parameter(s)
+Ends a process.
+
+TSKILL processid | processname [/SERVER:servername] [/ID:sessionid | /A] [/V]
+
+  processid           Process ID for the process to be terminated.
+  processname         Process name to be terminated.
+  /SERVER:servername  Server containing processID (default is current).
+                         /ID or /A must be specified when using processname
+                         and /SERVER
+  /ID:sessionid       End process running under the specified session.
+  /A                  End process running under ALL sessions.
+  /V                  Display information about actions being performed.
+
+
+C:\Users\fidia\Documents>type anime.jpg
+ Ï Ó JFIF       ■ ;CREATOR: gd-jpeg v1.0 (using IJG JPEG v80), quality = 95
+ █ C                
+
+
+
+
+
+
+
+
+ █ C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ └ rr"  ─           
+ ─ Á   } !1AQa"q2üæ#B▒┴RÐ­$3bré
+
+C:\Users\fidia\Documents>netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    192.168.0.5:59635      152:https              ESTABLISHED
+  TCP    192.168.0.5:59682      172.217.194.139:https  ESTABLISHED
+  TCP    192.168.0.5:59684      sa-in-f94:https        ESTABLISHED
+  TCP    192.168.0.5:59685      188:5228               ESTABLISHED
+  TCP    192.168.0.5:59728      172.217.194.189:https  ESTABLISHED
+  TCP    192.168.0.5:59752      fra02-002:http         ESTABLISHED
+  TCP    192.168.0.5:59759      a104-93-232-32:https   ESTABLISHED
+  TCP    192.168.0.5:59764      172.217.194.139:https  ESTABLISHED
+  TCP    192.168.0.5:59770      154:https              ESTABLISHED
+  TCP    192.168.0.5:59834      172.217.194.139:https  ESTABLISHED
+  TCP    192.168.0.5:59842      55:https               ESTABLISHED
+  TCP    192.168.0.5:59857      sa-in-f147:https       ESTABLISHED
+  TCP    192.168.0.5:59861      sa-in-f139:https       ESTABLISHED
+  TCP    192.168.0.5:59863      sc-in-f154:https       ESTABLISHED
+  TCP    192.168.0.5:59864      154:https              ESTABLISHED
+  TCP    192.168.0.5:59865      154:https              ESTABLISHED
+  TCP    192.168.0.5:59872      95:https               ESTABLISHED
+  TCP    192.168.0.5:59874      97:https               ESTABLISHED
+  TCP    192.168.0.5:59876      sa-in-f132:https       ESTABLISHED
+  TCP    192.168.0.5:59877      sa-in-f132:https       ESTABLISHED
+  TCP    192.168.0.5:59878      sa-in-f132:https       ESTABLISHED
+  TCP    192.168.0.5:59880      sc-in-f154:https       ESTABLISHED
+  TCP    192.168.0.5:59887      142.250.4.132:https    ESTABLISHED
+  TCP    192.168.0.5:59888      113:https              ESTABLISHED
+  TCP    192.168.0.5:59891      172.217.194.132:https  ESTABLISHED
+  TCP    192.168.0.5:59893      172.217.194.149:https  ESTABLISHED
+  TCP    192.168.0.5:59894      172.217.194.149:https  ESTABLISHED
+  TCP    192.168.0.5:59895      4:https                ESTABLISHED
+  TCP    192.168.0.5:59899      whatsapp-cdn-shv-02-sin6:https  ESTABLISHED
+  TCP    192.168.0.5:59900      172.217.194.94:https   ESTABLISHED
+  TCP    192.168.0.5:59902      sc-in-f17:https        ESTABLISHED
+  TCP    192.168.0.5:59905      r-176-58-45-5:http     TIME_WAIT
+  TCP    192.168.0.5:59906      sin10s01-in-f5:https   ESTABLISHED
+  TCP    192.168.0.5:59907      sin10s01-in-f5:https   ESTABLISHED
+  TCP    192.168.0.5:59909      101:https              ESTABLISHED
+  TCP    192.168.0.5:59910      filerep-prod-010:http  FIN_WAIT_1
+
+C:\Users\fidia\Documents>
+C:\Users\fidia\Documents>
+C:\Users\fidia\Documents>net
+The syntax of this command is:
+
+NET
+    [ ACCOUNTS | COMPUTER | CONFIG | CONTINUE | FILE | GROUP | HELP |
+      HELPMSG | LOCALGROUP | PAUSE | SESSION | SHARE | START |
+      STATISTICS | STOP | TIME | USE | USER | VIEW ]
+
+C:\Users\fidia\Documents>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\fidia\Documents>time
+The current time is: 22:58:04,68
+Enter the new time: nslookup
+The system cannot accept the time entered.
+Enter the new time: 22.59
+A required privilege is not held by the client.
+
+C:\Users\fidia\Documents>ping
+
+Usage: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+            [-r count] [-s count] [[-j host-list] | [-k host-list]]
+            [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+            [-4] [-6] target_name
+
+Options:
+    -t             Ping the specified host until stopped.
+                   To see statistics and continue - type Control-Break;
+                   To stop - type Control-C.
+    -a             Resolve addresses to hostnames.
+    -n count       Number of echo requests to send.
+    -l size        Send buffer size.
+    -f             Set Don't Fragment flag in packet (IPv4-only).
+    -i TTL         Time To Live.
+    -v TOS         Type Of Service (IPv4-only. This setting has been deprecated
+                   and has no effect on the type of service field in the IP
+                   Header).
+    -r count       Record route for count hops (IPv4-only).
+    -s count       Timestamp for count hops (IPv4-only).
+    -j host-list   Loose source route along host-list (IPv4-only).
+    -k host-list   Strict source route along host-list (IPv4-only).
+    -w timeout     Timeout in milliseconds to wait for each reply.
+    -R             Use routing header to test reverse route also (IPv6-only).
+                   Per RFC 5095 the use of this routing header has been
+                   deprecated. Some systems may drop echo requests if
+                   this header is used.
+    -S srcaddr     Source address to use.
+    -c compartment Routing compartment identifier.
+    -p             Ping a Hyper-V Network Virtualization provider address.
+    -4             Force using IPv4.
+    -6             Force using IPv6.
+
+
+C:\Users\fidia\Documents>gpresult
+
+GPRESULT [/S system [/U username [/P [password]]]] [/SCOPE scope]
+           [/USER targetusername] [/R | /V | /Z] [(/X | /H) <filename> [/F]]
+
+Description:
+    This command line tool displays the Resultant Set of Policy (RSoP)
+    information for a target user and computer.
+
+Parameter List:
+    /S        system           Specifies the remote system to connect to.
+
+    /U        [domain\]user    Specifies the user context under which the
+                               command should run.
+                               Can not be used with /X, /H.
+
+    /P        [password]       Specifies the password for the given user
+                               context. Prompts for input if omitted.
+                               Cannot be used with /X, /H.
+
+    /SCOPE    scope            Specifies whether the user or the
+                               computer settings need to be displayed.
+                               Valid values: "USER", "COMPUTER".
+
+    /USER     [domain\]user    Specifies the user name for which the
+                               RSoP data is to be displayed.
+
+    /X        <filename>       Saves the report in XML format at the
+                               location and with the file name specified
+                               by the <filename> parameter. (valid in Windows
+                               Vista SP1 and later and Windows Server 2008 and later)
+
+    /H        <filename>       Saves the report in HTML format at the
+                               location and with the file name specified by
+                               the <filename> parameter. (valid in Windows
+                               at least Vista SP1 and at least Windows Server 2008)
+
+    /F                         Forces Gpresult to overwrite the file name
+                               specified in the /X or /H command.
+
+    /R                         Displays RSoP summary data.
+
+    /V                         Specifies that verbose information should
+                               be displayed. Verbose information provides
+                               additional detailed settings that have
+                               been applied with a precedence of 1.
+
+    /Z                         Specifies that the super-verbose
+                               information should be displayed. Super-
+                               verbose information provides additional
+                               detailed settings that have been applied
+                               with a precedence of 1 and higher. This
+                               allows you to see if a setting was set in
+                               multiple places. See the Group Policy
+                               online help topic for more information.
+
+    /?                         Displays this help message.
+
+
+Examples:
+    GPRESULT /R
+    GPRESULT /H GPReport.html
+    GPRESULT /USER targetusername /V
+    GPRESULT /S system /USER targetusername /SCOPE COMPUTER /Z
+    GPRESULT /S system /U username /P password /SCOPE USER /V
+
+C:\Users\fidia\Documents>netsh
+netsh>x
+The following command was not found: x.
+netsh>/r
+The following command was not found: /r.
+netsh>/R
+The following command was not found: /R.
+netsh>
+netsh>WLAN
+netsh wlan>SHOW
+
+The following commands are available:
+
+Commands inherited from the netsh context:
+show alias     - Lists all defined aliases.
+show helper    - Lists all the top-level helpers.
+show mode      - Shows the current mode.
+
+Commands in this context:
+show all       - Shows complete wireless device and networks information.
+show allowexplicitcreds - Shows the allow shared user credentials settings.
+show autoconfig - Shows whether the auto configuration logic is enabled or
+                 disabled.
+show blockednetworks - Shows the blocked network display settings.
+show createalluserprofile - Shows whether everyone is allowed to create all
+                 user profiles.
+show drivers   - Shows properties of the wireless LAN drivers on the system.
+show filters   - Shows the allowed and blocked network list.
+show hostednetwork - Show hosted network properties and status.
+show interfaces - Shows a list of the wireless LAN interfaces on
+                 the system.
+show networks  - Shows a list of networks visible on the system.
+show onlyUseGPProfilesforAllowedNetworks - Shows the only use GP profiles on GP configured networks setting.
+show profiles  - Shows a list of profiles configured on the system.
+show randomization - Shows whether MAC randomization is enabled or
+                 disabled.
+show settings  - Shows the global settings of wireless LAN.
+show tracing   - Shows whether wireless LAN tracing is enabled or disabled.
+show wirelesscapabilities - Shows the wireless capabilities of the system
+show wlanreport - Generate a report showing recent wireless session information.
+netsh wlan>SHOW all
+Wireless System Information Summary
+(Time: 23/01/2020 23:02:52 SE Asia Standard Time)
+
+
+=======================================================================
+============================== SHOW DRIVERS ===========================
+=======================================================================
+
+
+Interface name: WiFi
+
+    Driver                    : Qualcomm Atheros QCA9377 Wireless Network Adapter
+    Vendor                    : Qualcomm Atheros Communications Inc.
+    Provider                  : Microsoft
+    Date                      : 22/08/2018
+    Version                   : 12.0.0.722
+    INF file                  : netathr10x.inf
+    Type                      : Native Wi-Fi Driver
+    Radio types supported     : 802.11b 802.11a 802.11g 802.11n 802.11ac
+    FIPS 140-2 mode supported : Yes
+    802.11w Management Frame Protection supported : Yes
+    Hosted network supported  : No
+    Authentication and cipher supported in infrastructure mode:
+                                Open            None
+                                Open            WEP-40bit
+                                Open            WEP-104bit
+                                Open            WEP
+                                WPA-Enterprise  TKIP
+                                WPA-Personal    TKIP
+                                WPA2-Enterprise TKIP
+                                WPA2-Personal   TKIP
+                                Vendor defined  TKIP
+                                WPA2-Enterprise Vendor defined
+                                Vendor defined  Vendor defined
+                                WPA-Enterprise  CCMP
+                                WPA-Personal    CCMP
+                                WPA2-Enterprise CCMP
+                                Vendor defined  CCMP
+                                WPA2-Enterprise Vendor defined
+                                Vendor defined  Vendor defined
+                                Vendor defined  CCMP
+                                Vendor defined  CCMP
+                                WPA2-Personal   CCMP
+                                Vendor defined  Vendor defined
+    Wireless Display Supported: Yes (Graphics Driver: Yes, Wi-Fi Driver: Yes)
+
+
+=======================================================================
+============================= SHOW INTERFACES =========================
+=======================================================================
+
+
+There is 1 interface on the system:
+
+    Name                   : WiFi
+    Description            : Qualcomm Atheros QCA9377 Wireless Network Adapter
+    GUID                   : 48b12272-dbc9-452f-b3db-fd511194a7bb
+    Physical address       : 98:22:ef:c7:d0:fb
+    State                  : connected
+    SSID                   : Loket Arya Online
+    BSSID                  : 74:da:da:e6:e6:99
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 11
+    Receive rate (Mbps)    : 150
+    Transmit rate (Mbps)   : 150
+    Signal                 : 100%
+    Profile                : Loket Arya Online
+
+    Hosted network status  : Not available
+
+
+=======================================================================
+=========================== SHOW HOSTED NETWORK =======================
+=======================================================================
+
+
+Hosted network settings
+-----------------------
+    Mode                   : Allowed
+    Settings               : <Not configured>
+
+Hosted network status
+---------------------
+    Status                 : Not available
+
+
+=======================================================================
+============================= SHOW SETTINGS ===========================
+=======================================================================
+
+
+Wireless LAN settings
+---------------------
+    Show blocked networks in visible network list: No
+
+    Only use GP profiles on GP-configured networks: No
+
+    Hosted network mode allowed in WLAN service: Yes
+
+    Allow shared user credentials for network authentication: Yes
+
+    Block period: Not Configured.
+
+    Auto configuration logic is enabled on interface "WiFi"
+    MAC randomization disabled on interface WiFi
+
+
+=======================================================================
+============================== SHOW FILTERS ===========================
+=======================================================================
+
+
+Allow list on the system (group policy)
+---------------------------------------
+    <None>
+
+Allow list on the system (user)
+-------------------------------
+    <None>
+
+Block list on the system (group policy)
+---------------------------------------
+    <None>
+
+Block list on the system (user)
+-------------------------------
+    <None>
+
+
+=======================================================================
+=========================== SHOW CREATEALLUSER ========================
+=======================================================================
+
+
+Everyone is allowed to create all user profiles.
+
+
+=======================================================================
+============================= SHOW PROFILES ===========================
+=======================================================================
+
+
+Profiles on interface WiFi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Wifi Mahasiswa 20
+    All User Profile     : Wifi Mahasiswa 18
+    All User Profile     : Wifi Mahasiswa 19
+    All User Profile     : @arya.wifi
+    All User Profile     : Loket Arya Online
+    All User Profile     : hiStudent
+    All User Profile     : Arya Online
+    All User Profile     : Wifi Mahasiswa 10
+
+
+=======================================================================
+========================== SHOW PROFILES NAME=* =======================
+=======================================================================
+
+
+Profile Wifi Mahasiswa 20 on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Wifi Mahasiswa 20
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "Wifi Mahasiswa 20"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Wifi Mahasiswa 18 on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Wifi Mahasiswa 18
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "Wifi Mahasiswa 18"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : TKIP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Wifi Mahasiswa 19 on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Wifi Mahasiswa 19
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "Wifi Mahasiswa 19"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile @arya.wifi on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : @arya.wifi
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "@arya.wifi"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Loket Arya Online on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Loket Arya Online
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "Loket Arya Online"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile hiStudent on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : hiStudent
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "hiStudent"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Arya Online on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Arya Online
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "Arya Online"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Wifi Mahasiswa 10 on interface WiFi:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Wifi Mahasiswa 10
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "Wifi Mahasiswa 10"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+=======================================================================
+======================= SHOW NETWORKS MODE=BSSID ======================
+=======================================================================
+
+
+Interface name : WiFi
+There are 1 networks currently visible.
+
+SSID 1 : Loket Arya Online
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP
+    BSSID 1                 : 74:da:da:e6:e6:99
+         Signal             : 100%
+         Radio type         : 802.11n
+         Channel            : 11
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+
+=======================================================================
+======================= SHOW INTERFACE CAPABILITIES ===================
+=======================================================================
+
+
+Wireless System Capabilities
+----------------------------
+    Number of antennas connected to the 802.11 radio (value not available)
+
+    Max number of channels the device can operate on, simultaneously (value not available)
+
+    Co-existence Support                        : Unknown
+
+
+Wireless Device Capabilities
+----------------------------
+
+Interface name: WiFi
+
+    WDI Version (Windows)                       : 0.1.1.8
+
+    WDI Version (IHV)                           : 0.1.1.6
+
+    Firmware Version                            : 0.0.0.9999;1d;0
+
+    Station                                     : Supported
+
+    Soft AP                                     : Not supported
+
+    Network monitor mode                        : Not supported
+
+    Wi-Fi Direct Device                         : Supported
+
+    Wi-Fi Direct GO                             : Supported
+
+    Wi-Fi Direct Client                         : Supported
+
+    Protected Management Frames                 : Supported
+
+    DOT11k neighbor report                      : Supported
+
+    ANQP Service Information Discovery          : Supported
+
+    Action Frame                                : Supported
+
+    Diversity Antenna                           : Not Supported
+
+    IBSS                                        : Not Supported
+
+    Promiscuous Mode                            : Not Supported
+
+    P2P Device Discovery                        : Supported
+
+    P2P Service Name Discovery                  : Supported
+
+    P2P Service Info Discovery                  : Not Supported
+
+    P2P Background Discovery                    : Supported
+
+    P2P GO on 5 GHz                             : Supported
+
+    ASP 2.0 Service Name Discovery              : Not Supported
+
+    ASP 2.0 Service Information Discovery       : Not Supported
+
+    IP Docking Capable                          : Not Supported
+
+    FIPS                                        : Supported
+
+    Instant Connect                             : Supported
+
+    Dx Standby NLO                              : Supported
+
+    Extended Channel Switch Announcement        : Supported
+
+    Function Level Reset                        : Not Supported
+
+    Platform Level Reset                        : Supported
+
+    Bus Level Reset                             : Not Supported
+
+    MAC Randomization                           : Supported
+
+    Fast Transition                             : Supported
+
+    MU-MIMO                                     : Supported
+
+    Miracast Sink                               : Supported
+
+    BSS Transition (802.11v)                    : Supported
+
+    IHV Extensibility Module Configured         : Not Supported
+
+    SAE Authentication                          : Not Supported
+
+    FTM as Initiator                          : Not Supported
+
+    MBO Support                                 : Not Supported
+
+    Number of Tx Spatial Streams                : 1
+
+    Number of Rx Spatial Streams                : 1
+
+    Number of Concurrent Channels Supported     : 2
+
+    P2P GO ports count                          : 1
+
+    P2P Clients Port Count                      : 2
+
+    P2P Max Mobile AP Clients                   : 16
+
+    Max ANQP Service Advertisements Supported   : 0
+
+    Co-existence Support                        : Wi-Fi performance is maintained
+
+
+netsh wlan>
+C:\Users\fidia\Documents>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\fidia\Documents>ver
+
+Microsoft Windows [Version 10.0.18362.592]
+
+C:\Users\fidia\Documents>rename coba coba2
+
+C:\Users\fidia\Documents>rem coba2
+
+C:\Users\fidia\Documents>
