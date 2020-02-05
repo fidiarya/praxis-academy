@@ -1,0 +1,1 @@
+Kelas adalah cetak biru dari mana objek individu dibuat

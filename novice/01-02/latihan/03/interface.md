@@ -1,0 +1,1 @@
+Interface adalah sebuah tipe referensi pada Java. Interface secara struktur serupa dengan class. Isi dari interface adalah method abstract, artinya method hanya dideklarasikan tidak ditulis secara utuh. Deklarasi method pada interface serupa dengan method pada class abstract.

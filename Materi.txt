@@ -1,0 +1,152 @@
+Materi Pembelajaran "Enterprise Full Stack Developer"
+
+#Minggu 01#
+
+Hari 1: Java dan Ekosistem Peranti Pengembangan
+
+Development tools dan ekosistemnya
+Dasar-dasar Java:
+Kompilasi, menjalankan, mempaket dalam bentuk .jar.
+Tools dan utilities di JDK.
+Konstruksi dasar bahasa pemrograman Java: variabel, konstanta, operator, ekspresi, statement / pernyataan, tipe data.
+Pernyataan untuk mengatur kendali program
+
+Hari 2: Pola Pikir Obyek, Tooling, Typing Discipline dan Penanganan Error
+
+Pola Pikir Obyek
+Dasar-dasar Pemrograman Berorientasi Obyek di Java
+Package di Java
+Build tool: Gradle
+Dynamic typing dan static typing
+Penanganan error / exception
+
+Hari 3: Anotasi, Javadoc, dan Generics
+
+Annotations
+Javadoc
+Generics
+
+Hari 4: OO Software Design
+
+UML, software design / modeling, OOP, dan Java
+Object Oriented Programming Lanjut di Java
+
+Hari 5: Struktur Data
+
+Serialisasi dan de-serialisasi
+Serialisasi data: XML dan JSON
+Struktur data dasar di Java menggunakan paket java utility.
+Java Collections Framework.
+
+
+#Minggu 02#
+
+Hari 1: Functional Programming
+
+Paradigma Functional Programming.
+Functional Programming di Java
+
+Hari 2: Unit Testing
+
+Unit Testing di Java
+JUnit
+Gradle dan unit testing
+
+Hari 3: Concurrent Programming
+
+Memahami Concurrent Programming
+Concurrent Programming di Java
+
+Hari 4: Design Patterns
+
+Pengertian software design patterns
+Penggunaan software design patterns dalam pembuatan software.
+Tipe-tipe software design patterns.
+Software design patterns di Java.
+Dependency Injection.
+
+Hari 5: Database Management System: SQL dan ORM
+
+Database Management System
+Perancangan database
+JDBC
+ORM
+
+#Minggu 03#
+
+Hari 1: NoSQL dan NewSQL
+
+NoSQL dan berbagai kategori NoSQL.
+NewSQL dan perbedaannya dengan SQL.
+MongoDB sebagai document database.
+Akses MongoDB menggunakan Java.
+CockroachDB sebagai database NewSQL.
+Akses CockroachDB menggunakan Java.
+
+Hari 2: Endpoint Development
+
+RESTful Endpoint
+GraphQL
+
+Hari 3: Dasar-dasar Microservices
+
+Arsitektur Software: microservices dan full stack application
+Framework: Dasar-dasar Micronaut
+
+Hari 4: Ekosistem dan Pemrograman Dasar JavaScript
+
+Development tools dan komponen-kompponennya.
+Ekosistem JavaScript: ES, JS, Node.js, Browser, HTML, CSS.
+Dasar-dasar JavaScript:
+JavaScript untuk browser dan di luar browser
+Tools dan utilities
+Konstruksi dasar bahasa pemrograman JavaScript
+
+Hari 5: Function dan Struktur Data di JavaScript
+
+Function di JavaScript
+Obyek
+Array
+Iterables
+Map dan Set
+WeakMap dan WeakSet
+Date dan Time
+
+#Minggu 04#
+
+Hari 1: Paradigma Pemrograman di JavaScript
+
+Memahami OOP
+OOP di JavaScript: Prototype-based dan Class-based
+Functional Programming
+
+Hari 2: Asynchronous Programming di JavaScript
+
+Callback
+Promise
+Async/Await
+
+Hari 3: Error Handling, Manipulasi DOM, Dasar-dasar Vue.js
+
+Error dan Exception Handling
+Pengantar Manipulasi DOM Menggunakan JavaScript
+Node, CSS, dan Event DOM
+Dasar-dasar Vue.js
+
+Hari 4: Lebih Lanjut Dengan Vue.js
+
+Vue.js Essentials
+Components
+Transitions
+Animations
+Reusability and Compositions
+Tooling
+Scaling Up
+Ekosistem Vue.js
+
+Hari 5: Integrasi Front End dengan Back End
+
+Arsitektur microservices dan Micronaut Framework.
+Akses DBMS di Micronaut Framework.
+Micronaut dan service GraphQL.
+Integrasi front end (Vue.js) dan back end di Micronaut.

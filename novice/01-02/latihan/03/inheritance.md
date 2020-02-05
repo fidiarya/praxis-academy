@@ -1,0 +1,1 @@
+Inheritance atau Pewarisan/Penurunan adalah konsep pemrograman dimana sebuah class dapat ‘menurunkan’ property dan method yang dimilikinya kepada class lain. Konsep inheritance digunakan untuk memanfaatkan fitur ‘code reuse’ untuk menghindari duplikasi kode program. Konsep inheritance membuat sebuah struktur atau ‘hierarchy’ class dalam kode program
