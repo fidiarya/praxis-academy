@@ -1,10 +1,12 @@
 package nomorSatu;
 
+import java.lang.annotation.Documented;
+
 /**
- * Anotasi Interface ialah anotasi yang di gunakan untuk mendokumentasikan
- * anotasi
+ * Anotasi Interface ialah anotasi yang di gunakan untuk mendokumentasikan anotasi
  */
 
+@Documented
 @interface mobil {
     String warna();
 
@@ -20,6 +22,6 @@ package nomorSatu;
 public class AnoInterface {
 
     public static void main(String[] args) {
-        // System.out.println(@interface mobil);
+        System.out.println("tes anotasi interface");
     }
 }

@@ -10,10 +10,11 @@ contoh :
 @Overide
 membuat kode dapat dibaca dan menghindari masalah pemeliharaan, seperti: saat mengubah metode tanda tangan dari kelas induk, Anda harus mengubah tanda tangan di kelas anak (di mana anotasi ini sedang digunakan) jika kompiler akan membuat kesalahan kompilasi
 @Deprecated
-Anotasi Deprecated ialah anotasi yang di gunakan untuk mendokumentasi bahwa method itu lawas / lama
- * yang tidak di gunakan lagi
+Anotasi Deprecated ialah anotasi yang di gunakan untuk mendokumentasi bahwa method itu lawas / lama yang tidak di gunakan lagi
 @SuppressWarnings
 Anotasi SuppressWarnings adalaha anotasi yang di gunakan untuk menginformasikan bahwa method lama di gunakan lagi agar memerintahkan kompiler menampilkan peringatan khusus
+@interface
+Anotasi Interface ialah anotasi yang di gunakan untuk mendokumentasikan anotasi
 
 2. javaDoc adalah sebuah alat untuk mengekstrak informasi dari source file java untuk membuat sebuah API 
 contoh : 
