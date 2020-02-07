@@ -1,0 +1,16 @@
+<?xml version = "1.0">
+<KartuNama>
+    <Nama>
+        <awal>Fidi<awal>
+        <tengah>Arya<tengah>
+        <akhir>Armidi<akhir>
+    </Nama>
+    <JenisKelamin>laki-laki</JenisKelamin>
+    <alamat>
+        <kecamatan>cibitung<kecamaatan>
+        <kabupaten>bekasi<kabupaten>
+    </alamat>
+    <ponsel>085218883606</ponsel>
+    <email>fidiarya@gmail.com</email>
+    <hobi olahraga="futsal,fitnes,voly" membaca="alquran, coding" coding="java, php">
+</KartuNama>
