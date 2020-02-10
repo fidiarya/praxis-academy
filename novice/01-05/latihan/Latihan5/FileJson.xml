@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Latihan5.JsonObject">
+    <void property="alamat">
+     <string>Tanggerang</string>
+    </void>
+    <void property="nama">
+     <string>Maulana</string>
+    </void>
+    <void property="umur">
+     <int>20</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

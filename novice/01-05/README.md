@@ -145,6 +145,9 @@ contoh :
   ]
 }
 
+refrensi belajar https://agung-setiawan.com/gson-mengubah-objek-java-menjadi-json/ 
+jangan lupa download jsonnya di https://mvnrepository.com/artifact/com.google.code.gson/gson/2.8.6 . kemudia copas path nya di build.gradle dependancies
+
 4. JAVA Data Struktur
 - Enumeration
 mendefinisikan metode yang digunakan untuk menghitung (memperoleh satu per satu) elemen dalam kumpulan objek.
