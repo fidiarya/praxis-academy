@@ -1,0 +1,15 @@
+{
+    "container": [{
+        "someString": "xxxxx",
+        "someInteger": 123,
+        "someArrayElem": [{
+                "key": 1111,
+                "value": "One"
+            },
+            {
+                "key": 2222,
+                "value": "Two"
+            }
+        ]
+    }]
+}

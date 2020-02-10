@@ -23,9 +23,6 @@ repositories {
 dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:28.1-jre'
-    // https://mvnrepository.com/artifact/org.json/json
-    compile group: 'org.json', name: 'json', version: '20190722'
-
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
@@ -33,5 +30,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'ProjectH5.Dua'
+    mainClassName = 'Latihan.Main'
 }
